@@ -10,3 +10,8 @@ const menu = document.querySelector('.menu');
 const menuButton = document.querySelector('.menu-button');
 // Using your menuButton reference, add a click handler that calls toggleMenu
 menuButton.addEventListener('click', toggleMenu);
+""
+// ======== STRETCH ========
+// Menu slides in from Left
+// Menu slide out when button is clicked
+
